@@ -205,7 +205,7 @@
     {
       "ID": 21,
       "tag": "low-potassium",
-      "name": "low potassium",
+      "name": "low-potassium",
       "categoryID": 2,
       "description": "Less than 150mg per serving",
       "previewURL": ""
@@ -213,7 +213,7 @@
     {
       "ID": 22,
       "tag": "low-sugar",
-      "name": "low sugar",
+      "name": "low-sugar",
       "categoryID": 2,
       "description": "No simple sugars \u2013 glucose, dextrose, galactose, fructose, sucrose, lactose, maltose",
       "previewURL": ""
@@ -229,7 +229,7 @@
     {
       "ID": 24,
       "tag": "Mediterranean",
-      "name": "mediterranean",
+      "name": "Mediterranean",
       "categoryID": 2,
       "description": "Mediterranean diet",
       "previewURL": ""
@@ -253,7 +253,7 @@
     {
       "ID": 27,
       "tag": "No-oil-added",
-      "name": "no oil added",
+      "name": "No-oil-added",
       "categoryID": 2,
       "description": "No oil added except to what is contained in the basic ingredients",
       "previewURL": ""
@@ -277,7 +277,7 @@
     {
       "ID": 30,
       "tag": "pecatarian",
-      "name": "pescatarian",
+      "name": "pecatarian",
       "categoryID": 2,
       "description": "Does not contain meat or meat based products, can contain dairy and fish",
       "previewURL": ""
