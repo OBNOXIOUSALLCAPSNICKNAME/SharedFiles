@@ -388,7 +388,7 @@
     },
     {
       "ID": 44,
-      "tag": "lunch/dinner",
+      "tag": "lunch",
       "name": "lunch/dinner",
       "categoryID": 3,
       "description": "description for this label is not yet available",
