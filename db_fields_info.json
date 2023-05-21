@@ -6,6 +6,7 @@
       "name": "servings",
       "columnName": "servings",
       "measure": "ppl",
+      "precision": 0,
       "stepSize": 1,
       "rangeMin": 1,
       "rangeMax": 20
@@ -16,6 +17,7 @@
       "name": "ingredients",
       "columnName": "ingredients",
       "measure": "pcs",
+      "precision": 0,
       "stepSize": 1,
       "rangeMin": 1,
       "rangeMax": 30
@@ -26,6 +28,7 @@
       "name": "cooking time",
       "columnName": "time",
       "measure": "min",
+      "precision": 0,
       "stepSize": 5,
       "rangeMin": 5,
       "rangeMax": 600
@@ -36,6 +39,7 @@
       "name": "weight",
       "columnName": "weight",
       "measure": "g",
+      "precision": 0,
       "stepSize": 50,
       "rangeMin": 0,
       "rangeMax": 5000
@@ -826,6 +830,7 @@
       "measure": "kcal",
       "hasRDI": true,
       "dailyAllowance": 2000,
+      "precision": 0,
       "rangeMin": 0,
       "rangeMax": 5000,
       "stepSize": 50
@@ -839,6 +844,7 @@
       "measure": "g",
       "hasRDI": true,
       "dailyAllowance": 65,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -852,6 +858,7 @@
       "measure": "g",
       "hasRDI": true,
       "dailyAllowance": 20,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -865,6 +872,7 @@
       "measure": "g",
       "hasRDI": false,
       "dailyAllowance": 2,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -878,6 +886,7 @@
       "measure": "g",
       "hasRDI": false,
       "dailyAllowance": 22,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -891,6 +900,7 @@
       "measure": "g",
       "hasRDI": false,
       "dailyAllowance": 20,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -904,6 +914,7 @@
       "measure": "g",
       "hasRDI": true,
       "dailyAllowance": 300,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -917,6 +928,7 @@
       "measure": "g",
       "hasRDI": false,
       "dailyAllowance": 300,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -930,6 +942,7 @@
       "measure": "g",
       "hasRDI": true,
       "dailyAllowance": 25,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -943,6 +956,7 @@
       "measure": "g",
       "hasRDI": false,
       "dailyAllowance": 25,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -956,6 +970,7 @@
       "measure": "g",
       "hasRDI": false,
       "dailyAllowance": 25,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -969,6 +984,7 @@
       "measure": "g",
       "hasRDI": true,
       "dailyAllowance": 50,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -982,6 +998,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 300,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -995,6 +1012,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 2400,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1008,6 +1026,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 1000,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1021,6 +1040,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 420,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1034,6 +1054,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 4700,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1047,6 +1068,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 18,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1060,6 +1082,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 11,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1073,6 +1096,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 700,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1086,6 +1110,7 @@
       "measure": "\u00b5g",
       "hasRDI": true,
       "dailyAllowance": 900,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1099,6 +1124,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 90,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1112,6 +1138,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 1.2,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1125,6 +1152,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 1.3,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1138,6 +1166,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 16,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1151,6 +1180,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 1.3,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1164,6 +1194,7 @@
       "measure": "\u00b5g",
       "hasRDI": true,
       "dailyAllowance": 400,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1177,6 +1208,7 @@
       "measure": "\u00b5g",
       "hasRDI": false,
       "dailyAllowance": 400,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1190,6 +1222,7 @@
       "measure": "\u00b5g",
       "hasRDI": false,
       "dailyAllowance": 400,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1203,6 +1236,7 @@
       "measure": "\u00b5g",
       "hasRDI": true,
       "dailyAllowance": 2.4,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1216,6 +1250,7 @@
       "measure": "\u00b5g",
       "hasRDI": true,
       "dailyAllowance": 15,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1229,6 +1264,7 @@
       "measure": "mg",
       "hasRDI": true,
       "dailyAllowance": 15,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1242,6 +1278,7 @@
       "measure": "\u00b5g",
       "hasRDI": true,
       "dailyAllowance": 120,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1255,6 +1292,7 @@
       "measure": "g",
       "hasRDI": false,
       "dailyAllowance": 0,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
@@ -1268,6 +1306,7 @@
       "measure": "g",
       "hasRDI": false,
       "dailyAllowance": 0,
+      "precision": 1,
       "rangeMin": 0,
       "rangeMax": 100,
       "stepSize": 0.5
